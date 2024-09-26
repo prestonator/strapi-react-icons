@@ -1,6 +1,6 @@
 {
   "name": "@prestonator4000/strapi-react-icons",
-  "version": "1.1.0",
+  "version": "1.2.0",
   "description": "This is the description of the plugin.",
   "strapi": {
     "name": "strapi-react-icons",
@@ -8,12 +8,12 @@
     "kind": "plugin"
   },
   "dependencies": {
-    "@strapi/design-system": "^1.6.3",
-    "@strapi/helper-plugin": "^4.6.0",
-    "@strapi/icons": "^1.6.3",
-    "prop-types": "^15.7.2",
-    "react-icons": "^4.12.0",
-    "react-virtualized-auto-sizer": "^1.0.20",
+    "@strapi/design-system": "^1.19.0",
+    "@strapi/helper-plugin": "^4.25.12",
+    "@strapi/icons": "^1.19.0",
+    "prop-types": "^15.8.1",
+    "react-icons": "^5.3.0",
+    "react-virtualized-auto-sizer": "^1.0.24",
     "react-window": "^1.8.10"
   },
   "devDependencies": {

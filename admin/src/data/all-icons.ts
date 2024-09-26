@@ -13,6 +13,7 @@ export * from "react-icons/gr"; // Grommet-Icons
 export * from "react-icons/hi2"; // Heroicons 2
 export * from "react-icons/im"; // IcoMoon Free
 export * from "react-icons/io5"; // Ionicons 5
+export * from "react-icons/lu"; // Lucide icons
 export * from "react-icons/md"; // Material Design icons
 export * from "react-icons/rx"; // Radix Icons
 export * from "react-icons/ri"; // Remix Icon
